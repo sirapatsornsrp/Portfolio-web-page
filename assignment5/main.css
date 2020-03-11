@@ -1,0 +1,25 @@
+div{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: white;
+    padding: 10px ;
+    border: 1px #e3c7d8 solid;
+    text-align: center;
+}
+textarea{
+    background-color: #e3c7d8;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+button{
+    background-color: #cfbeb7;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    border: 1px solid gray;
+    
+}
+hr{
+    color: #e3c7d8 ;
+    border: #e3c7d8 2px solid;
+}
+
